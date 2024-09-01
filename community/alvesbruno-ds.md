@@ -26,10 +26,10 @@ Antes de mais nada, gostaria de me apresentar 😀
 
 🌐[**Meu Portfólio e Contatos**](https://brunoalves.carrd.co/)
 
-![https://www.linkedin.com/in/bruno22ds/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/bruno22ds/)
 ![https://medium.com/@cdados.br](https://img.shields.io/badge/Medium-%230077B5?style=for-the-badge&logo=medium&logoColor=white)
 ![https://github.com/alvesbruno-ds/Data-Science](https://img.shields.io/badge/github-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)
-[![https://www.dio.me/users/cdados_br](https://img.shields.io/badge/-DIO-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)
+![https://www.dio.me/users/cdados_br](https://img.shields.io/badge/-DIO-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)
 
 
 Conecte-se comigo! Será um prazer trocarmos experiências para juntos, aproveitarmos ao máximo esse Bootcamp! 🦅
